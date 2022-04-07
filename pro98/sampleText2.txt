@@ -1,0 +1,2 @@
+In this article, we will be focusing on opening, closing, reading, and writing data in a text file.
+
